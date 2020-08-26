@@ -2,6 +2,8 @@
 
 Main developer of [SPSCloud](https://www.spscloud.io) | Front-End | Back-End | WEB | Mobile | API | B2B | WebRTC | eCommerce | Shipping | CRM | OpenCV
 
+<img align="right" alt="Fury" src="https://github.com/devdreamsolution/devdreamsolution/blob/master/Light_Fury.png" width="30%"/>
+
 Talking about Personal Stuffs:
 
 - 🔭 I'm currently working on outsourcing like [Upwork](https://upwork.com), [Freelancer](https://freelancer.com), [Workana](https://workana.com) 
