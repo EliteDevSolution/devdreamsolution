@@ -9,7 +9,7 @@ Talking about Personal Stuffs:
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: q3construction1@gmail.com
 
-<img align="right" alt="Fury" src="https://github.com/devdreamsolution/devdreamsolution/blob/master/Night_Fury.png" width="50%"/>
+<img align="right" alt="Fury" src="https://github.com/devdreamsolution/devdreamsolution/blob/master/Night_Fury.png" width="60%"/>
 
 ### Skills and Tools:
 
