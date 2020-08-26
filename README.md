@@ -1,13 +1,15 @@
 ## Hello 👋 and welcome 🎉 to my profile. 
 
 Main developer of [SPSCloud](https://www.spscloud.io) | Front-End | Back-End | WEB | Mobile | API | B2B | WebRTC | eCommerce | Shipping | CRM | OpenCV
-<img align="right" alt="Fury" src="https://github.com/devdreamsolution/devdreamsolution/blob/master/Night_Fury.png" width="50%"/>
+
 Talking about Personal Stuffs:
 
 - 🔭 I'm currently working on outsourcing like [Upwork](https://upwork.com), [Freelancer](https://freelancer.com), [Workana](https://workana.com) 
 - 🌱 I’m currently learning AR
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: q3construction1@gmail.com
+
+<img align="right" alt="Fury" src="https://github.com/devdreamsolution/devdreamsolution/blob/master/Night_Fury.png" width="50%"/>
 
 ### Skills and Tools:
 
