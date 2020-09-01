@@ -38,3 +38,5 @@ Talking about Personal Stuffs:
 <img align="left" alt="Fury" src="https://github.com/devdreamsolution/devdreamsolution/blob/master/Light_Fury.png" width="32%"/>
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=devdreamsolution&show_icons=true&hide_border=true&theme=highcontrast)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devdreamsolution&layout=compact)
