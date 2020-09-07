@@ -9,6 +9,7 @@ Talking about Personal Stuffs:
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: q3construction1@gmail.com
 
+![My github stats](https://github-readme-stats.vercel.app/api?username=devdreamsolution&theme=highcontrast)
 <img align="right" alt="Fury" src="https://github.com/devdreamsolution/devdreamsolution/blob/master/Night_Fury.png" width="65%"/>
 
 ### Skills and Tools:
@@ -36,5 +37,3 @@ Talking about Personal Stuffs:
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 
 <img align="left" alt="Fury" src="https://github.com/devdreamsolution/devdreamsolution/blob/master/Light_Fury.png" width="32%"/>
-
-![My github stats](https://github-readme-stats.vercel.app/api?username=devdreamsolution&theme=highcontrast)
