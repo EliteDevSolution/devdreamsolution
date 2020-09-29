@@ -35,3 +35,4 @@ Talking about Personal Stuffs:
 
 ## My GitHub state
 ![My github stats](https://github-readme-stats.vercel.app/api?username=devdreamsolution&theme=highcontrast)
+![test]("https://github-readme-stats.vercel.app/api/top-langs/?username=devdreamsolution&layout=compact&theme=tokyonight&include_all_commits=true)
