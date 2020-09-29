@@ -34,5 +34,7 @@ Talking about Personal Stuffs:
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 
 ## My GitHub state
-![My github stats](https://github-readme-stats.vercel.app/api?username=devdreamsolution&theme=highcontrast)
-![test](https://github-readme-stats.vercel.app/api/top-langs/?username=devdreamsolution&layout=compact&theme=tokyonight&include_all_commits=true)
+<p class="text-center">
+  ![My github stats](https://github-readme-stats.vercel.app/api?username=devdreamsolution&theme=highcontrast)
+  ![Most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=devdreamsolution&layout=compact&theme=tokyonight&include_all_commits=true)
+</p>
