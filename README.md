@@ -1,6 +1,6 @@
 ## Hello 👋 and welcome 🎉 to my profile. 
 
-Main developer of [SPSCloud](https://www.spscloud.io) and [ScoutingLab](http://scoutinglab.pro) | Front-End | Back-End | WEB | Flutter | API | B2B | WebRTC | Market place | Shipping | CRM | OpenCV
+Main developer of [SPSCloud](https://www.spscloud.io) and [ScoutingLab](http://scoutinglab.pro) | Front-End | Back-End | WEB | Mobile | API | B2B | B2C | WebRTC | Ecommerce | Market place | Shipping | CRM | OpenCV
 
 Talking about Personal Stuffs:
 
