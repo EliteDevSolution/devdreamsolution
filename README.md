@@ -4,7 +4,7 @@ Main developer of [SPSCloud](https://www.spscloud.io) and [ScoutingLab](http://s
 
 Talking about Personal Stuffs:
 
-- 🔭 I'm currently working on 360 video
+- 🔭 I'm currently working on 360 video script
 - 🌱 I’m currently learning AR
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: q3construction1@gmail.com
