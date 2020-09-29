@@ -1,10 +1,10 @@
 ## Hello 👋 and welcome 🎉 to my profile. 
 
-Main developer of [SPSCloud](https://www.spscloud.io) and [ScoutingLab](http://scoutinglab.pro) | Front-End | Back-End | WEB | Mobile | API | B2B | WebRTC | eCommerce | Shipping | CRM | OpenCV
+Main developer of [SPSCloud](https://www.spscloud.io) and [ScoutingLab](http://scoutinglab.pro) | Front-End | Back-End | WEB | Flutter | API | B2B | WebRTC | Market place | Shipping | CRM | OpenCV
 
 Talking about Personal Stuffs:
 
-- 🔭 I'm currently working on outsourcing like [Upwork](https://upwork.com), [Freelancer](https://freelancer.com), [Workana](https://workana.com) 
+- 🔭 I'm currently working on 360 video
 - 🌱 I’m currently learning AR
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: q3construction1@gmail.com
