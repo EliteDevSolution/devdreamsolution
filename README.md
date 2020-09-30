@@ -1,6 +1,7 @@
 ## Hello 👋 and welcome 🎉 to my profile. 
 
-Main developer of [SPSCloud](https://www.spscloud.io) and [ScoutingLab](http://scoutinglab.pro) | Front-End | Back-End | WEB | Mobile | API | B2B | B2C | WebRTC | Ecommerce | Market place | Shipping | CRM | OpenCV
+:fallen_leaf: Main developer of [SPSCloud](https://www.spscloud.io) and [ScoutingLab](http://scoutinglab.pro)
+Front-End | Back-End | WEB | Mobile | API | B2B | B2C | WebRTC | Ecommerce | Market place | Shipping | CRM | OpenCV
 
 Talking about Personal Stuffs:
 
