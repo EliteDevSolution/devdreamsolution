@@ -1,6 +1,6 @@
 ## Hello 👋 and welcome 🎉 to my profile. 
 
-:fallen_leaf: Main developer of [SPSCloud](https://www.spscloud.io) and [ScoutingLab](http://scoutinglab.pro) [Dura App](https://play.google.com/store/apps/details?id=v2.paint.dura.com.vn&hl=en_US)
+:fallen_leaf: Main developer of [SPSCloud](https://www.spscloud.io), [ScoutingLab](http://scoutinglab.pro), [Dura App](https://play.google.com/store/apps/details?id=v2.paint.dura.com.vn&hl=en_US)
 
 :thumbsup: Front-End | Back-End | WEB | Mobile | API | B2B | B2C | WebRTC | Ecommerce | Market place | Shipping | CRM | OpenCV
 
