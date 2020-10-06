@@ -12,7 +12,7 @@ Talking about Personal Stuffs:
 - 📫 How to reach me: q3construction1@gmail.com
 
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=devdreamsolution&column=7&theme=onedark"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=devdreamsolution&column=10&theme=onedark"/>
 </p>
 
 ## Skills and Tools:
