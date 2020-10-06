@@ -11,6 +11,10 @@ Talking about Personal Stuffs:
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: q3construction1@gmail.com
 
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=kcaribou&column=7&theme=onedark"/>
+</p>
+
 ## Skills and Tools:
 
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
