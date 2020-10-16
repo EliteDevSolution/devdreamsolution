@@ -1,6 +1,6 @@
 ## Hello 👋 and welcome 🎉 to my profile. 
 
-<img src="https://emojis.slackmojis.com/emojis/images/1471045839/793/computerrage.gif" width="25" height="25"/> Developement of [SPSCloud](https://www.spscloud.io)|[ScoutingLab](http://scoutinglab.pro)|[Dura App](https://play.google.com/store/apps/details?id=v2.paint.dura.com.vn&hl=en_US)
+<img src="https://emojis.slackmojis.com/emojis/images/1471045839/793/computerrage.gif" width="25" height="25"/> Developement of [SPSCloud](https://www.spscloud.io) | [ScoutingLab](http://scoutinglab.pro) | [Dura App](https://play.google.com/store/apps/details?id=v2.paint.dura.com.vn&hl=en_US)
 
 <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif" width="25" height="25"/> Front-End | Back-End | WEB | Mobile | API | B2B | B2C | WebRTC | Ecommerce | Market place | Shipping | CRM | OpenCV
 
