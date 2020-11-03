@@ -9,7 +9,7 @@ Talking about Personal Stuffs:
 - 🔭 I’m currently working on Laravel and VueJS.
 - 🌱 I’m currently learning **AR**.
 - 👨‍💻 All of my projects are available at [DevDreamCatch](https://github.com/devdreamcatch).
-- 💬 Ask me about **MERN, MEAN, VueJS, Laravel, Symfony, Django**.
+- 💬 Ask me about **MERN, MEAN, VueJS, Laravel, Symfony, Django, Native and Hybrid**.
 - 📫 How to reach me
 
 <p align="center">
