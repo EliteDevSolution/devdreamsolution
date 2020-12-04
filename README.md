@@ -8,7 +8,7 @@ Talking about Personal Stuffs:
 
 - 🔭 I’m currently working on **Laravel** and **VueJS**.
 - 🌱 I’m currently learning **AR**.
-- 👨‍💻 All of my projects are available at @deal-makers.
+- 👨‍💻 All of my projects are available at **[Deal Makers](https://github.com/deal-makers)**.
 - 💬 Ask me about **MERN, MEAN, VueJS, Laravel, Symfony, Django, Native and Hybrid**.
 - 📫 How to reach me **q3construction1@gmail.com** and **[Skype meeting](https://join.skype.com/o3NJQLYK5i1z)**
 
