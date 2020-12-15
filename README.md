@@ -1,6 +1,6 @@
 ## Hello 👋 and welcome 🎉 to my profile. 
 
-Release of [SPSCloud Screenwriting App](https://www.spscloud.io) | [ScoutingLab Soccer](http://scoutinglab.pro) | [Dura App](https://play.google.com/store/apps/details?id=v2.paint.dura.com.vn&hl=en_US) | [Xpendpay Payment Gateway](https://xpendpay.com)
+Release of [SPSCloud Screenwriting App](https://www.spscloud.io) | [ScoutingLab Soccer](http://scoutinglab.pro) | [Dura App](https://play.google.com/store/apps/details?id=v2.paint.dura.com.vn&hl=en_US) | [Xpendpay Payment Gateway](https://xpendpay.com), and so on.
 
 <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif" width="25" height="25"/> Front-End | Back-End | WEB | Mobile | API | B2B | B2C | WebRTC | Ecommerce | Market place | Shipping | CRM | OpenCV
 
