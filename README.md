@@ -1,7 +1,7 @@
 ## Hello 👋 and welcome 🎉 to my profile.
 
 ### Through 8 years of WEB and MOBILE development
-- 🛕 I respect and understand clients' needs, my goal is to give customers 100%-satisfaction.
+- 🚀 I respect and understand clients' needs, my goal is to give customers 100%-satisfaction.
 - 👍 Always, I will achieve effectiveness, high quality, and fastest delivery, maintenance.
 - 👨‍🎓 I strive to make today better than yesterday, I value self-development and continuous improvement.
 - 😃 Have a Project in your Mind?
@@ -18,13 +18,11 @@
 - ⭐ DevOps | AWS | Docker | Heroku | Git
 - ⭐ Ecommerce | Shipping | Payment gateways | RESTful API | B2B | Scraping | Marketplace | The 3rd party APIs integration | OpenCV
 #### SERVICES
-- Responsible communication (any time).
-- Flexible Time Zone.
-- Deliver Daily or Weekly results to your Server, Hosting or my Heroku.
-- Full Time(40~48 hours / week) Development with the weekend.
+- 💬 Responsible communication (any time).
+- 🕗 Flexible Time Zone.
+- 🚚 Deliver Daily or Weekly results to your Server, Hosting or my Server.
+- ⚡ Full Time(40~48 hours / week) Development with the weekend.
 ## Talking about Personal Stuffs:
-- 💬 Ask me about if you have any technical problems in your **Web** or **Mobile** projects.
-- 
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=devdreamsolution&column=7&theme=onedark"/>
 </p>
