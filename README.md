@@ -14,30 +14,20 @@ I will implement your great ideas to be live perfectly.
 Contact me today!
 
 ### CORE SKILLS
-👍 ReactJS | ExpressJS | NodeJS | VueJS | Nuxt | Angular
-
-👍 PHP | Laravel | Symfony | CodeIgniter | Yii | Unit test
-
-👍 Shopify | WordPress | Magento | Drupal
-
-👍 Python | Django | Flask
-
-👍 HTML | Jquery | Javascript | CSS | Bootstrap | SCSS
-
-👍 Firebase | Dart | Flutter | React Native
-
-👍 DevOps | AWS | Docker | Heroku | Git
-
-👍 Ecommerce | Shipping | Payment gateway | RESTful API | B2B | Scraping | Marketplace | The 3rd party API integration
+- ReactJS | ExpressJS | NodeJS | VueJS | Nuxt | Angular
+- PHP | Laravel | Symfony | CodeIgniter | Yii | Unit test
+- Shopify | WordPress | Magento | Drupal
+- Python | Django | Flask
+- HTML | Jquery | Javascript | CSS | Bootstrap | SCSS
+- Firebase | Dart | Flutter | React Native
+- DevOps | AWS | Docker | Heroku | Git
+- Ecommerce | Shipping | Payment gateways | RESTful API | B2B | Scraping | Marketplace | The 3rd party APIs integration | OpenCV
 
 ### SERVICES
-👍 Responsible communication (any time).
-
-👍 Flexible Time Zone.
-
-👍 Deliver Daily or Weekly results to your Server, Hosting or my Heroku.
-
-👍 Full Time(40~48 hours / week) Development with the weekend.
+- Responsible communication (any time).
+- Flexible Time Zone.
+- Deliver Daily or Weekly results to your Server, Hosting or my Heroku.
+- Full Time(40~48 hours / week) Development with the weekend.
 
 ## Talking about Personal Stuffs:
 
