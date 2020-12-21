@@ -1,15 +1,37 @@
 ## Hello 👋 and welcome 🎉 to my profile. 
 
-Release of [SPSCloud Screenwriting App](https://www.spscloud.io) | [ScoutingLab Soccer](http://scoutinglab.pro) | [Dura App](https://play.google.com/store/apps/details?id=v2.paint.dura.com.vn&hl=en_US) | [Xpendpay Payment Gateway](https://xpendpay.com), and so on.
+### Through 8 YEARS OF Web and Mobile development
+#### Customer Focus
+I respect and understand clients' needs, my goal is to give customers 100%-satisfaction.
+#### Best Works
+Always, I will achieve effectiveness, high quality, and fastest delivery, maintenance.
+#### Innovate and Change
+I strive to make today better than yesterday, I value self-development and
+continuous improvement.
 
-<img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif" width="25" height="25"/> Front-End | Back-End | WEB | Mobile | API | B2B | B2C | WebRTC | Ecommerce | Market place | Shipping | CRM | OpenCV
+Have a Project in your Mind?
+I will implement your great ideas to be live perfectly.
+Contact me today!
+
+### CORE SKILLS
+✔️ ReactJS | ExpressJS | NodeJS | VueJS | Nuxt | Angular
+✔️ PHP | Laravel | Symfony | CodeIgniter | Yii | Unit test
+✔️ Shopify | WordPress | Magento | Drupal
+✔️ Python | Django | Flask
+✔️ HTML | Jquery | Javascript | CSS | Bootstrap | SCSS
+✔️ Firebase | Dart | Flutter | React Native
+✔️ DevOps | AWS | Docker | Heroku | Git
+✔️ Ecommerce | Shipping | Payment gateway | RESTful API | B2B | Scraping | Marketplace | The 3rd party API integration
+
+### SERVICES
+✔️ Responsible communication (any time).
+✔️ Flexible Time Zone.
+✔️ Deliver Daily or Weekly results to your Server, Hosting or my Heroku.
+✔️ Full Time(40~48 hours / week) Development with the weekend.
 
 Talking about Personal Stuffs:
 
-- 🔭 I’m currently working on **Laravel** and **VueJS**.
-- 🌱 I’m currently learning **AR**.
-- 👨‍💻 All of my projects are available at **[Deal Makers](https://github.com/deal-makers)**.
-- 💬 Ask me about **MERN, MEAN, VueJS, Laravel, Symfony, Django, Native and Hybrid Mobile APP**.
+- 💬 Ask me about if you have any technical problems in your **Web** or **Mobile** projects.
 - 📫 How to reach me **q3construction1@gmail.com** and **[Join on Skype](https://join.skype.com/invite/kz16eAu91s8Y)**
 
 <p align="center">
