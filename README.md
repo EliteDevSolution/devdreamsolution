@@ -39,7 +39,7 @@ Contact me today!
 
 👍 Full Time(40~48 hours / week) Development with the weekend.
 
-Talking about Personal Stuffs:
+## Talking about Personal Stuffs:
 
 - 💬 Ask me about if you have any technical problems in your **Web** or **Mobile** projects.
 - 📫 How to reach me **q3construction1@gmail.com** and **[Join on Skype](https://join.skype.com/invite/kz16eAu91s8Y)**
