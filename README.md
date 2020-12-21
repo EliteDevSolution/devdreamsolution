@@ -6,7 +6,7 @@
 - 👨‍🎓 I strive to make today better than yesterday, I value self-development and continuous improvement.
 - 😃 Have a Project in your Mind?
 - ✨ I will implement your great ideas to be live perfectly.
-- 📫 Contact me today! **q3construction1@gmail.com** and **[Join on Skype](https://join.skype.com/invite/kz16eAu91s8Y)**
+- 📫 Contact me today **q3construction1@gmail.com** and **[Join on Skype](https://join.skype.com/invite/kz16eAu91s8Y)**
 
 #### CORE SKILLS
 - ⭐ ReactJS | ExpressJS | NodeJS | VueJS | Nuxt | Angular
