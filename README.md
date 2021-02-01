@@ -4,7 +4,7 @@
 - 🚀 I respect and understand clients' needs, my goal is to give customers 100%-satisfaction.
 - 👍 Always, I will achieve effectiveness, high quality, and fastest delivery, maintenance.
 - 👨‍🎓 I strive to make today better than yesterday, I value self-development and continuous improvement.
-- 👨‍💻 some of my projects are available at @deal-makers
+- 👨‍💻 some of my projects are available at [Deal Makers](https://github.com/deal-makers)
 - 😃 Have a Project in your Mind?
 - ✨ I will implement your great ideas to be live perfectly.
 - 📫 Contact me today **hiccup0216@gmail.com** and **[Join on Skype](https://join.skype.com/invite/kz16eAu91s8Y)**.
