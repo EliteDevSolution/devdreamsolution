@@ -7,7 +7,7 @@
 - 👨‍💻 some of my projects are available at [Deal Makers](https://github.com/deal-makers)
 - 😃 Have a Project in your Mind?
 - ✨ I will implement your great ideas to be live perfectly.
-- 📫 Contact me today **hiccup0216@gmail.com** and **[Join on Skype](https://join.skype.com/invite/kz16eAu91s8Y)**.
+- 📫 Contact me today **[Join on Skype](https://join.skype.com/invite/kz16eAu91s8Y)**.
 
 #### CORE SKILLS
 - ⭐ ReactJS | ExpressJS | NodeJS | VueJS | Nuxt | Angular
