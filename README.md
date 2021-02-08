@@ -1,6 +1,7 @@
 ## Hello 👋 and welcome 🎉 to my profile.
 
 ### Through 8 years of WEB and MOBILE development
+#### ABOUT ME
 - 🚀 I respect and understand clients' needs, my goal is to give customers 100%-satisfaction.
 - 👍 Always, I will achieve effectiveness, high quality, and fastest delivery, maintenance.
 - 👨‍🎓 I strive to make today better than yesterday, I value self-development and continuous improvement.
