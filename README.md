@@ -21,7 +21,7 @@
 - ⭐ HTML | Jquery | Javascript | CSS | Bootstrap | SCSS
 - ⭐ Firebase | Dart | Flutter | React Native
 - ⭐ DevOps | AWS | Docker | Heroku | Git
-- ⭐ Ecommerce | Shipping | Payment gateways | RESTful API | B2B | Scraping | Marketplace | The 3rd party APIs integration | OpenCV
+- ⭐ Ecommerce | Shipping | Payment gateways | RESTful API | B2B | Scraping | Marketplace | The 3rd party APIs integration | OpenCV | Face Recognition | Trading
 #### SERVICES
 - 💬 Responsible communication (any time).
 - 🕗 Flexible Time Zone.
