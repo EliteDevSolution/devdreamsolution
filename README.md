@@ -6,7 +6,7 @@
 - 🚀 I respect and understand clients' needs, my goal is to give customers 100%-satisfaction.
 - 👍 Always, I will achieve effectiveness, high quality, and fastest delivery, maintenance.
 - 👨‍🎓 I strive to make today better than yesterday, I value self-development and continuous improvement.
-- 👨‍💻 some of my projects are available at [Deal Makers](https://github.com/deal-makers)
+- 👨‍💻 Some of my projects are available at [Deal Makers](https://github.com/deal-makers) and [My repositories](https://github.com/devdreamsolution?tab=repositories&q=&type=source&language=&sort=)
 - 😃 Have a Project in your Mind?
 - ✨ I will implement your great ideas to be live perfectly.
 - 📫 Contact me today **q3construction1@gmail.com** and **[Join on Skype](https://join.skype.com/invite/kz16eAu91s8Y)**.
@@ -14,14 +14,15 @@
 <img align="right" height="250" width="400" src="https://media3.giphy.com/media/p4NLw3I4U0idi/giphy.gif?cid=ecf05e47u651twctsezhzbsw8myzchukcjxu7oeakq3ujf17&rid=giphy.gif" />
 
 #### CORE SKILLS
-- ⭐ ReactJS | ExpressJS | NodeJS | VueJS | Nuxt | Angular
-- ⭐ PHP | Laravel | Symfony | CodeIgniter | Yii | Unit test
-- ⭐ Shopify | WordPress | Magento | Drupal
-- ⭐ Python | Django | Flask
+- ⭐ MERN | MEVN | MEAN stack
+- ⭐ PHP | Laravel | Symfony | Yii | CodeIgniter
+- ⭐ Shopify | WordPress | Magento | Drupal | Bigcommerce
+- ⭐ Python | Django | ASP.NET
 - ⭐ HTML | Jquery | Javascript | CSS | Bootstrap | SCSS
-- ⭐ Firebase | Dart | Flutter | React Native
+- ⭐ Flutter | React Native | IONIC
+- ⭐ MySQL | PostgreSQL | MSSQL | MongoDB | Online DBs
 - ⭐ DevOps | AWS | Docker | Heroku | Git
-- ⭐ Ecommerce | Shipping | Payment gateways | RESTful API | B2B | Scraping | Marketplace | The 3rd party APIs integration | OpenCV | Face Recognition | Trading
+- ⭐ Ecommerce | Gateways | B2B | Scraping | Marketplace | APIs integrations | Face Recognition | Bitcoin
 #### SERVICES
 - 💬 Responsible communication (any time).
 - 🕗 Flexible Time Zone.
