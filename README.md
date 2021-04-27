@@ -16,7 +16,7 @@
 #### CORE SKILLS
 - ⭐ Node/Express/React/Redux Toolkit/Vue/Vuetify/Vuex/Nuxt/Angular/Electron
 - ⭐ Javascript/Typescript/GraphQL
-- ⭐ PHP/Laravel/CodeIgniter/Symfony/Yii
+- ⭐ PHP/Laravel/CodeIgniter/Symfony/Yii/Zend
 - ⭐ Shopify/WordPress/Magento/Drupal/Bigcommerce
 - ⭐ Python/Django/ASP.NET
 - ⭐ HTML/Jquery/CSS/Bootstrap/SCSS
