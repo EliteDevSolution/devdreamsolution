@@ -9,7 +9,7 @@
 - 👨‍💻 Some of my public projects are available at [Deal Makers](https://github.com/deal-makers) and [My repositories](https://github.com/devdreamsolution?tab=repositories&q=&type=source&language=&sort=)
 - 😃 Have a Project in your Mind?
 - ✨ I will implement your great ideas to be live perfectly.
-- 📫 Contact me today **[Join on Skype](https://join.skype.com/invite/kz16eAu91s8Y)** <a href="mailto:q3construction1@gmail.com">Email</a>.
+- 📫 Contact me **[Join on Skype](https://join.skype.com/invite/kz16eAu91s8Y)** and <a href="mailto:q3construction1@gmail.com">Send Mail</a> if you need my help.
 
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=devdreamsolution&column=7&theme=onedark"/>
