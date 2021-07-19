@@ -11,7 +11,7 @@
 - ✨ I will implement your great ideas to be live perfectly.
 - 📫 Contact me **[Join on Skype](https://join.skype.com/invite/kz16eAu91s8Y)** and **<a href="mailto:q3construction1@gmail.com">Send Mail</a>** if you need my help.
 
-#### My Skills
+#### MY SKILLS
     ✔ React/Next/Redux toolkit, Vue/Nuxt, Angular, Node/Express, ES5/ES6/Typescript
     ✔ PHP/Laravel/CodeIgniter/Symfony
     ✔ Python/Django/Flask/Ruby on Rails/ASP.NET
