@@ -11,6 +11,19 @@
 - ✨ I will implement your great ideas to be live perfectly.
 - 📫 Contact me **[Join on Skype](https://join.skype.com/invite/kz16eAu91s8Y)** and **<a href="mailto:q3construction1@gmail.com">Send Mail</a>** if you need my help.
 
+#### My Skills
+    ✔ React/Next/Redux toolkit, Vue/Nuxt, Angular, Node/Express, ES5/ES6/Typescript
+    ✔ PHP/Laravel/CodeIgniter/Symfony
+    ✔ Python/Django/Flask/Ruby on Rails/ASP.NET
+    ✔ Flutter/IONIC/React Native/Xamarin
+    ✔ HTML5/jQuery/CSS/SCSS, Bootstrap/TailwindCSS
+    ✔ MongoDB, MySQL, MSSQL, PostgreSQL
+    ✔ Template, Theme and Script customization
+    ✔ Payment, Facebook, Instagram, Google, and so on API integration, OpenCV
+    ✔ WordPress, Magento, Drupal, Shopify
+    ✔ AWS (EC2, Cognito, S3 bucket, Lambda), Git, Docker, Heroku
+    ✔ ERP, CRM, Ecommerce, Marketplace, Ba2B, B2C, SEO, Cryptocurrency
+
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=devdreamsolution&column=7&theme=onedark"/>
 </p>
