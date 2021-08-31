@@ -12,16 +12,20 @@
 - 📫 Contact me **[Join on Skype](https://join.skype.com/invite/kz16eAu91s8Y)** and **<a href="mailto:q3construction1@gmail.com">Send Mail</a>** if you need my help.
 
 #### MY SKILLS
-    ✔ React/Next/Redux toolkit, Vue/Nuxt, Angular, Node/Express, ES5/ES6/Typescript
-    ✔ PHP/Laravel/CodeIgniter/Symfony
-    ✔ Python/Django/Flask/Ruby on Rails/ASP.NET
-    ✔ Flutter/IONIC/React Native/Xamarin
-    ✔ HTML5/jQuery/CSS/SCSS, Bootstrap/TailwindCSS
-    ✔ MongoDB, MySQL, MSSQL, PostgreSQL
+    ✔ Reactjs, Nextjs, Gatsby, Redux & toolkit, Hooks, Apollo
+    ✔ Vuejs, Nuxtjs, Vuex, Vuetify, Vuepress, Gridsome, Quasar, Eaglejs
+    ✔ Angularjs, Angular, Typescript, RxJs, NgRX, Angular playground
+    ✔ Nodejs, Expressjs, Nestjs, Prisma, Sequelize, TypeORM, Graphql, Hasura
+    ✔ HTML5, jQuery, CSS, SCSS, Bootstrap, TailwindCSS
+    ✔ MSSQL, MySQL, PostgreSQL, MongoDB
+    ✔ Python, Django, Flask, OpenCV
+    ✔ Ruby, Ruby on Rails
+    ✔ PHP, Laravel, Symfony, CodeIgniter
+    ✔ WordPress, Magento, Shopify, Drupal
+    ✔ C++, C #, ASP.NET, VB.NET
+    ✔ Jenkins, Codefresh, Git, Docker, Heroku, Kubernetes, AWS
     ✔ Template, Theme and Script customization
-    ✔ Payment, Facebook, Instagram, Google, and so on API integration, OpenCV
-    ✔ WordPress, Magento, Drupal, Shopify
-    ✔ AWS (EC2, Cognito, S3 bucket, Lambda), Git, Docker, Heroku
+    ✔ Payment gateway, Facebook, Instagram, Google, and so on APIs integration
     ✔ ERP, CRM, Ecommerce, Marketplace, Ba2B, B2C, SEO, Cryptocurrency
 
 <p align="center">
