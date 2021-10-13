@@ -9,20 +9,6 @@
 - 👨‍💻 Some of my public projects are available at **[Deal Makers](https://github.com/deal-makers)** and **[My repositories](https://github.com/devdreamsolution?tab=repositories&q=&type=source&language=&sort=)**
 - 😃 Have a Project in your Mind?
 - ✨ I will implement your great ideas to be live perfectly.
-- 📫 Contact me if you need my help.
-
-<div align="center">
-    <a href="mailto:q3construction1@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/google-%2300acee.svg?&amp;style=for-the-badge&amp;logo=google&amp;logoColor=white" alt="google">
-    </a>
-    <a href="https://join.skype.com/invite/kz16eAu91s8Y" target="_blank">
-    <img src="https://img.shields.io/badge/skype-%232E87FB.svg?&amp;style=for-the-badge&amp;logo=skype&amp;logoColor=white" alt="skype">
-    </a>
-    <a href="https://t.me/devdreamsolution" target="_blank">
-    <img src="https://img.shields.io/badge/telegram-%231E77B5.svg?&amp;style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="telegram">
-    </a>
-</div>
-
 
 #### MY STACKS
 - Reactjs, Nextjs, Gatsby, Redux & toolkit, Hooks, Apollo
