@@ -6,7 +6,6 @@
 - 🚀 I respect and understand your needs, my goal is to give you 100%-satisfaction.
 - 👍 Always, I will achieve effectiveness, high quality, and fastest delivery, maintenance.
 - 👨‍🎓 I strive to make today better than yesterday, I value self-development and continuous improvement.
-- 👨‍💻 Some of my public projects are available at **[Deal Makers](https://github.com/deal-makers)** and **[My repositories](https://github.com/devdreamsolution?tab=repositories&q=&type=source&language=&sort=)**
 - 😃 Have a Project in your Mind?
 - ✨ I will implement your great ideas to be live perfectly.
 
