@@ -13,8 +13,8 @@
 - Reactjs, Nextjs, Gatsby, Redux & toolkit, Hooks, Apollo
 - Vuejs, Nuxtjs, Vuex, Vuetify, Vuepress, Gridsome, Quasar, Eaglejs
 - Angularjs, Angular, Typescript, RxJs, NgRX, Angular playground
-- Nodejs, Expressjs, Nestjs, Prisma, Sequelize, TypeORM, Graphql, Hasura
-- HTML5, jQuery, CSS, SCSS, Bootstrap, TailwindCSS
+- Nodejs, Expressjs, Nestjs, Prisma, Sequelize, Mongoose, TypeORM, Graphql, Hasura
+- HTML5, jQuery, CSS, SCSS, Bootstrap, TailwindCSS, Material UI
 - MSSQL, MySQL, PostgreSQL, MongoDB
 - Python, Django, Flask, OpenCV
 - Ruby, Ruby on Rails
