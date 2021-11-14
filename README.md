@@ -16,15 +16,16 @@
 - Nodejs, Expressjs, Nestjs, Prisma, Sequelize, Mongoose, TypeORM, Graphql, Hasura
 - HTML5, jQuery, CSS, SCSS, Bootstrap, TailwindCSS, Material UI
 - MSSQL, MySQL, PostgreSQL, MongoDB
-- Python, Django, Flask, OpenCV
+- Python, Django, Flask
 - Ruby, Ruby on Rails
 - PHP, Laravel, Symfony, CodeIgniter
 - WordPress, Magento, Shopify, Drupal
 - C++, C #, ASP.NET, VB.NET
+- Face recognition, OpenCV, Blockchain
 - Jenkins, Codefresh, Git, Docker, Heroku, Kubernetes, AWS
 - Template, Theme and Script customization
 - Payment gateway, Facebook, Instagram, Google, and so on APIs integration
-- ERP, CRM, Ecommerce, Marketplace, Ba2B, B2C, SEO, Cryptocurrency
+- ERP, CRM, Ecommerce, Marketplace, Ba2B, B2C, SEO
 
 <table><tr><td valign="top" width="100%">
 <div align="center">  
