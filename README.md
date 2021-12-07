@@ -20,7 +20,7 @@
 - Ruby, Ruby on Rails
 - PHP, Laravel, Symfony, CodeIgniter
 - WordPress, Magento, Shopify, Drupal
-- C++, C #, ASP.NET, VB.NET
+- C #, ASP.NET
 - Face recognition, OpenCV, Blockchain
 - Jenkins, Codefresh, Git, Docker, Heroku, Kubernetes, AWS
 - Template, Theme and Script customization
