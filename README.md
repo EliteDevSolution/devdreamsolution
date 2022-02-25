@@ -10,22 +10,17 @@
 - ✨ I will implement your great ideas to be live perfectly.
 
 #### MY STACKS
-- Reactjs, Nextjs, Gatsby, Redux & toolkit, Hooks, Apollo
-- Vuejs, Nuxtjs, Vuex, Vuetify, Vuepress, Gridsome, Quasar, Eaglejs
-- Angularjs, Angular, Typescript, RxJs, NgRX, Angular playground
-- Nodejs, Expressjs, Nestjs, Prisma, Sequelize, Mongoose, TypeORM, Graphql, Hasura
+- Reactjs, Nextjs, Gatsby, Redux & toolkit
+- Vuejs, Nuxtjs, Vuex
+- Angularjs, Angular, Typescript
+- Nodejs, Expressjs, Prisma, Sequelize, Mongoose, Graphql
 - HTML5, jQuery, CSS, SCSS, Bootstrap, TailwindCSS, Material UI
 - MSSQL, MySQL, PostgreSQL, MongoDB
-- Python, Django, Flask
+- Python, Django
 - Ruby, Ruby on Rails
 - PHP, Laravel, Symfony, CodeIgniter
-- WordPress, Magento, Shopify, Drupal
 - C #, ASP.NET
 - Face recognition, OpenCV, Blockchain
-- Jenkins, Codefresh, Git, Docker, Heroku, Kubernetes, AWS
-- Template, Theme and Script customization
-- Payment gateway, Facebook, Instagram, Google, and so on APIs integration
-- ERP, CRM, Ecommerce, Marketplace, Ba2B, B2C, SEO
 
 <table><tr><td valign="top" width="100%">
 <div align="center">  
