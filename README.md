@@ -18,7 +18,7 @@
 - MSSQL, MySQL, PostgreSQL, MongoDB
 - Python, Django
 - Ruby, Ruby on Rails
-- PHP, Laravel|Livewire, Symfony, CodeIgniter
+- PHP, Laravel | Livewire, Symfony, CodeIgniter
 - C #, ASP.NET
 - Face recognition, OpenCV, Blockchain
 
