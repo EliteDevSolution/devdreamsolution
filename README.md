@@ -10,16 +10,17 @@
 - ✨ I will implement your great ideas to be live perfectly.
 
 #### MY STACKS
-- Reactjs, Nextjs, Gatsby, Redux & toolkit
+- Reactjs, Nextjs, Gatsby, Redux & toolkit, React Native
 - Vuejs, Nuxtjs, Vuex
-- Angularjs, Angular, Typescript
+- Angularjs, Angular, IONIC, Typescript
 - Nodejs, Expressjs, Prisma, Sequelize, Mongoose, Graphql
 - HTML5, jQuery, CSS, SCSS, Bootstrap, TailwindCSS, Material UI
 - MSSQL, MySQL, PostgreSQL, MongoDB
 - Python, Django
 - Ruby, Ruby on Rails
 - PHP, Laravel | Livewire, Symfony, CodeIgniter
-- C #, ASP.NET
+- C #, ASP.NET, Xamarin
+- Dart, Flutter
 - Face recognition, OpenCV, Blockchain
 
 <table><tr><td valign="top" width="100%">
