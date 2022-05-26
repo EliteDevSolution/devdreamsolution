@@ -1,16 +1,15 @@
 ## <img height="60" width="60" src="https://media1.tenor.com/images/3ca4190df184f2329bb9f0bd06ea0cc2/tenor.gif?itemid=10604183" /> Welcome 🎉 to my profile.
 
 ### Through 8 years of WEB and Hybrid Mobile development
-#### ABOUT ME
-
-- 🚀 I respect and understand your needs, my goal is to give you 100%-satisfaction.
-- 👍 Always, I will achieve effectiveness, high quality, and fastest delivery, maintenance.
-- 👨‍🎓 I strive to make today better than yesterday, I value self-development and continuous improvement.
-- 😃 Have a Project in your Mind?
-- ✨ I will implement your great ideas to be live perfectly.
+#### 💫 ABOUT ME
+🚀 I respect and understand your needs, my goal is to give you 100%-satisfaction.
+👍 Always, I will achieve effectiveness, high quality, and fastest delivery, maintenance.
+👨‍🎓 I strive to make today better than yesterday, I value self-development and continuous improvement.
+😃 Have a Project in your Mind?
+✨ I will implement your great ideas to be live perfectly.
 
 #### MY STACKS
-- Reactjs, Nextjs, Gatsby, Redux & toolkit, React Native
+- Reactjs, Nextjs, Gatsby, Svelte Redux & toolkit, React Native
 - Vuejs, Nuxtjs, Vuex
 - Angularjs, Angular, IONIC, Typescript
 - Nodejs, Expressjs, Prisma, Sequelize, Mongoose, Graphql
