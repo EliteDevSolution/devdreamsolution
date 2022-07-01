@@ -29,7 +29,7 @@
 - Vuejs, Nuxtjs, Vuex
 - Angularjs, Angular, IONIC, Typescript
 - Nodejs, Expressjs, Prisma, Sequelize, Mongoose, Graphql
-- HTML5, jQuery, CSS, SCSS, Bootstrap, TailwindCSS, Material UI
+- HTML5, jQuery, CSS, SCSS, Bootstrap, TailwindCSS, Material UI, Chakra UI
 - MSSQL, MySQL, PostgreSQL, MongoDB
 - Python, Django
 - Ruby, Ruby on Rails
@@ -37,6 +37,7 @@
 - C #, ASP.NET, Xamarin
 - Dart, Flutter
 - Face recognition, OpenCV, Blockchain
+- Jira, Azure, AWS Services, Docker, Kubernate, CI/CD, Git
 
 <table><tr><td valign="top" width="100%">
 <div align="center">  
