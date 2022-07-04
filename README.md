@@ -31,7 +31,7 @@
 - Nodejs, Expressjs, Prisma, Sequelize, Mongoose, Graphql
 - HTML5, jQuery, CSS, SCSS, Bootstrap, TailwindCSS, Material UI, Chakra UI
 - MSSQL, MySQL, PostgreSQL, MongoDB
-- Python, Django
+- Python, Django, Go/Golang
 - Ruby, Ruby on Rails
 - PHP, Laravel | Livewire, Symfony, CodeIgniter
 - C #, ASP.NET, Xamarin
